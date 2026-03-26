@@ -1,0 +1,9 @@
+{
+  "contextRoot": "http://149.45.28.242/discern/m1958.gbrh_cd.cerncd.com/mpages/reports",
+  "domain":[
+    "b1958",
+    "m1958",
+    "p1958"
+  ],
+  "enableOfflineMode": true
+}
